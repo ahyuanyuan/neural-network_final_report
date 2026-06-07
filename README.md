@@ -1,4 +1,4 @@
-# nn-final-report
+# Neural Network-Final-Report
 # DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation (CVC-ClinicDB)
 ## 實驗結果對照 (CVC-ClinicDB)
 
